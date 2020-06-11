@@ -1,3 +1,6 @@
 # madhavmathur.github.io
 
-To setup, run npm install, and npm run. And open, localhost:8080
+To setup, 
+- Clone the repo
+- Install dependencies <code> npm install </code>
+- Run Babel-ESLint <code> npm run lint </code>
